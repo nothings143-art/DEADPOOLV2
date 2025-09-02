@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/07038c2e2f6211fc132c0.jpg" alt="Lootere-Filter-Bot Logo">
+  <img src="https://i.ibb.co/xKT2d5yq/DEADPOOLV2.jpg" alt="Lootere-Filter-Bot Logo">
 </p>
 <h1 align="center">
   𝑺𝒂𝒇𝒂𝒓𝒊-𝑭𝒊𝒍𝒕𝒆𝒓-𝑩𝒐𝒕
