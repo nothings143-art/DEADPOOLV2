@@ -2,10 +2,10 @@
   <img src="https://i.imghippo.com/files/ftJV7492xgA.jpg" alt="Lootere-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  𝑺𝒂𝒇𝒂𝒓𝒊-𝑭𝒊𝒍𝒕𝒆𝒓-𝑩𝒐𝒕
+  Lootere-Filter-Bot
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑆𝑎𝑓𝑎𝑟𝑖-𝐹𝑖𝑙𝑡𝑒𝑟-𝐵𝑜𝑡!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+𝑆𝑎𝑓𝑎𝑟𝑖𝑑𝑒𝑣𝑣!;𝐴+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+⚡+𝑠𝑢𝑝𝑒𝑟+𝑎𝑛𝑑+𝑐𝑜𝑜𝑙+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠+𝑠𝑒𝑒+𝑡ℎ𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝐿𝑜𝑜𝑡𝑒𝑟𝑒-𝐹𝑖𝑙𝑡𝑒𝑟-𝐵𝑜𝑡!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+𝐿𝑜𝑜𝑡𝑒𝑟𝑒!;𝐴+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+⚡+𝑠𝑢𝑝𝑒𝑟+𝑎𝑛𝑑+𝑐𝑜𝑜𝑙+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠+𝑠𝑒𝑒+𝑡ℎ𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
 </p>
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
 ♦ 𝐼𝑀𝐷𝐵 𝑇𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑆𝑒𝑡
@@ -44,7 +44,7 @@
 🔷 𝑹𝒆𝒎𝒐𝒗𝒆 𝑼𝒏𝒔𝒆𝒂𝒔𝒆𝒚 𝑼𝒔𝒆𝒍𝒆𝒔𝒔 𝑾𝒐𝒓𝒅
 🔷 𝑨𝒏𝒅 𝑮𝒓𝒐𝒖𝒑 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔
 
-<b>𝙅𝙤𝙞𝙣 𝘽𝙤𝙩 𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 <a href='https://telegram.me/LootereBotts'>𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧</a>.</b>
+<b>𝙅𝙤𝙞𝙣 *Movies* 𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝘾𝙝𝙖𝙣𝙣𝙚𝙡 <a href='https://telegram.me/LootereBotts'>𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧</a>.</b>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 
