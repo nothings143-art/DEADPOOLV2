@@ -30,8 +30,8 @@ PICS = (environ.get('PICS', 'https://radare.arzfun.com/api/tg/photo?id=AgACAgUAA
 WELCOME_VID = environ.get("WELCOME_VID", "https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4")
 
 #premium imag
-REFFER_PIC = environ.get('REFFER_PIC', 'https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAEHmk1ouTesiuADNjW1DBqiUWPIV8ZHSQAClsgxG9m90FV4z_z2TAX8WAEAAwIAA3gAAzYE')
-PREMIUM_PIC = environ.get('SUBSCRIPTION', 'https://radare.arzfun.com/api/tg/photo?id=AgACAgUAAxkBAAEHmk1ouTesiuADNjW1DBqiUWPIV8ZHSQAClsgxG9m90FV4z_z2TAX8WAEAAwIAA3gAAzYE')
+REFFER_PIC = environ.get('REFFER_PIC', '')
+PREMIUM_PIC = environ.get('SUBSCRIPTION', '')
 QR_CODE = environ.get('QR_CODE', 'https://ibb.co/TMm1JJ6p') # Scanner Code image 
 #refer time, or feffer count
 REFERAL_TIME = int(environ.get('REFERAL_USER_TIME', "2592000")) # set in seconds | already seted 1 month premium
@@ -55,7 +55,7 @@ AUTH_REQ_CHANNEL = int(environ.get('AUTH_REQ_CHANNEL', '0'))
 NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'True')), False)
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://nothingsunfav8_db_user:cZjzhPcqH6dIOMrz@cluster0.xthac8f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://CYBERTG:CYBERTG@cybertg.sti1hiq.mongodb.net/?retryWrites=true&w=majority&appName=CyberTG")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Rkmovieszip')
 
