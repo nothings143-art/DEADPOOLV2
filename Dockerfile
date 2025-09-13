@@ -6,7 +6,7 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /Lootere-Filter-Bot
-WORKDIR /Lootere-Filter-Bot
+RUN mkdir /DEADPOOLV2
+WORKDIR /DEADPOOLV2
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
